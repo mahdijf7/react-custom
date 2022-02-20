@@ -1,3 +1,3 @@
 # react- task-list
-seending data to firebase and get back
+sending data to firebase and get back from it
 working with custom hook 
