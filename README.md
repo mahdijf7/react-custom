@@ -1,2 +1,3 @@
-# react-custom-hook
-working whit cusrom hook 
+# react- task-list
+seending data to firebase and get back
+working with custom hook 
